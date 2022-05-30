@@ -5,17 +5,17 @@ msgstr ""
 "POT-Creation-Date: 2016-08-22 14:14+0000\n"
 "PO-Revision-Date: 2022-05-30 04:40\n"
 "Last-Translator: \n"
-"Language-Team: Kazakh\n"
-"Language: kk_KZ\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: git-hub\n"
 "X-Crowdin-Project-ID: 448652\n"
-"X-Crowdin-Language: kk\n"
-"X-Crowdin-File: /[nataliacrowdin.rus] l10n_main/kk/kk/djangojs1.po\n"
-"X-Crowdin-File-ID: 5526\n"
+"X-Crowdin-Language: pt-PT\n"
+"X-Crowdin-File: /[nataliacrowdin.rus] l10n_main/djangojs.po\n"
+"X-Crowdin-File-ID: 5524\n"
 
 msgid "'"
 msgstr ""
@@ -189,10 +189,10 @@ msgid "Cancel this slot only or all the set?"
 msgstr ""
 
 msgid "Remove this"
-msgstr "Cancel this"
+msgstr ""
 
 msgid "Remove all"
-msgstr "Cancel all"
+msgstr ""
 
 msgid "Add"
 msgstr ""
@@ -201,7 +201,7 @@ msgid "minutes"
 msgstr ""
 
 msgid "Create slot"
-msgstr "Create a slot"
+msgstr ""
 
 msgid "All intervals"
 msgstr ""
@@ -216,31 +216,31 @@ msgid "Type proctor email"
 msgstr ""
 
 msgid "Are you sure you want to enroll in the selected slot?"
-msgstr "Are you sure you want to sign up for the selected slot?"
+msgstr ""
 
 msgid "Are you sure you want to cancel the recording on the selected slot?"
 msgstr ""
 
 msgid "Are you sure you want to cancel the recording on the selected slot?<br> The refound will be: %(amount)s&#8381;"
-msgstr "Are you sure you want to cancel the registration for the selected slot?<br> The refund will be: %(amount)s&#8381;"
+msgstr ""
 
 msgid "Are you sure you want to cancel recording the selected exam?"
-msgstr "Are you sure you want to cancel the registration for the selected exam?"
+msgstr ""
 
 msgid "You do not have the next exam."
-msgstr "There are no upcoming exams."
+msgstr ""
 
 msgid "Your exams:"
 msgstr ""
 
 msgid "If you can't find your exam in list, or there are no available slots for entry, contact the education institution for information about the specification of the terms and conditions of the examination event."
-msgstr "If you cannot find your exam in list, or there are no available slots for entry, contact the educational institution to specify the terms and conditions of the examination event."
+msgstr ""
 
 msgid "Miss your exam?"
-msgstr "Not seeing your exam?"
+msgstr ""
 
 msgid "Choosing exam"
-msgstr "Choosing an exam"
+msgstr ""
 
 msgid "Attention, the exam record is available no later than %(reserveHours)s hours before the exam!"
 msgstr ""
@@ -252,16 +252,16 @@ msgid "Show the document"
 msgstr ""
 
 msgid "Start exam"
-msgstr "Start the exam"
+msgstr ""
 
 msgid "Finish exam"
-msgstr "Finish the exam"
+msgstr ""
 
 msgid "Abort exam"
-msgstr "Abort the exam"
+msgstr ""
 
 msgid "Please take photo again"
-msgstr "Please take a photo again"
+msgstr ""
 
 msgid "ID card"
 msgstr ""
@@ -294,28 +294,28 @@ msgid "Click to schedule"
 msgstr ""
 
 msgid "Unavailable"
-msgstr "No free slots"
+msgstr ""
 
 msgid "Hold to activate the sound of the video"
 msgstr ""
 
 msgid "Click for restore videostream"
-msgstr "Click to restore the video stream"
+msgstr ""
 
 msgid "Logout"
-msgstr "Log out"
+msgstr ""
 
 msgid "Send warning"
-msgstr "Send a warning"
+msgstr ""
 
 msgid "Quick messages"
 msgstr ""
 
 msgid "Add warning"
-msgstr "Add a warning"
+msgstr ""
 
 msgid "Are you realy want to delete a message?"
-msgstr "Are you sure you want to delete the message?"
+msgstr ""
 
 msgid "Error"
 msgstr ""
@@ -339,37 +339,37 @@ msgid "Calendar"
 msgstr ""
 
 msgid "allow_wrong_gaze_direction"
-msgstr "Wrong gaze direction"
+msgstr ""
 
 msgid "allow_to_use_websites"
-msgstr "Using websites"
+msgstr ""
 
 msgid "allow_to_use_messengers"
-msgstr "Using messengers"
+msgstr ""
 
 msgid "allow_to_use_paper"
-msgstr "Using paper"
+msgstr ""
 
 msgid "allow_to_use_excel"
-msgstr "Using Excel"
+msgstr ""
 
 msgid "allow_voices"
-msgstr "Voices"
+msgstr ""
 
 msgid "allow_to_use_books"
-msgstr "Using books"
+msgstr ""
 
 msgid "allow_to_use_human_assistant"
-msgstr "Human assistant"
+msgstr ""
 
 msgid "allow_absence_in_frame"
-msgstr "Absence in frame"
+msgstr ""
 
 msgid "allow_to_use_calculator"
-msgstr "Using calculator"
+msgstr ""
 
 msgid "custom_rules"
-msgstr "Custom rules"
+msgstr ""
 
 msgid "Exam"
 msgstr ""
@@ -402,7 +402,7 @@ msgid "No limit"
 msgstr ""
 
 msgid "Staff quota"
-msgstr "Limit for one slot:"
+msgstr ""
 
 msgid "Record list"
 msgstr ""
@@ -420,13 +420,13 @@ msgid "You"
 msgstr ""
 
 msgid "IDENTIFICATION: NO FACE"
-msgstr "No face"
+msgstr ""
 
 msgid "IDENTIFICATION: COLLISION"
-msgstr "Collision"
+msgstr ""
 
 msgid "IDENTIFICATION: OK"
-msgstr "Ok"
+msgstr ""
 
 msgid "Webcam duration"
 msgstr ""
@@ -453,55 +453,55 @@ msgid "No data"
 msgstr ""
 
 msgid "WARNING_EXTRA_USER_IN_FRAME"
-msgstr "Second person in frame"
+msgstr ""
 
 msgid "WARNING_SUBSTITUTION_USER"
-msgstr "The student replaced"
+msgstr ""
 
 msgid "WARNING_NO_USER_IN_FRAME"
-msgstr "The student is absent"
+msgstr ""
 
 msgid "WARNING_AVERT_EYES"
-msgstr "Wrong gaze direction"
+msgstr ""
 
 msgid "WARNING_TIMEOUT"
-msgstr "Timeout, no connection"
+msgstr ""
 
 msgid "WARNING_CHANGE_ACTIVE_WINDOW_ON_COMPUTER"
-msgstr "Active window changed"
+msgstr ""
 
 msgid "WARNING_TALK"
-msgstr "Human voice in audiostream"
+msgstr ""
 
 msgid "WARNING_FORBIDDEN_SOFTWARE"
-msgstr "Forbidden sites/software"
+msgstr ""
 
 msgid "WARNING_FORBIDDEN_DEVICE"
-msgstr "Forbidden hardware"
+msgstr ""
 
 msgid "WARNING_VOICE_DETECTED"
-msgstr "Microphone voice detected"
+msgstr ""
 
 msgid "WARNING_EXTRA_DISPLAY"
-msgstr "Extra display detected"
+msgstr ""
 
 msgid "WARNING_BOOKS"
-msgstr "Books/notes are used"
+msgstr ""
 
 msgid "WARNING_CHEATER"
-msgstr "Cheater"
+msgstr ""
 
 msgid "WARNING_SILENCE"
-msgstr "Microphone is muted"
+msgstr ""
 
 msgid "WARNING_NONVERBAL"
-msgstr "Non-verbal communication"
+msgstr ""
 
 msgid "WARNING_PHONE"
-msgstr "Phone is used"
+msgstr ""
 
 msgid "WARNING_PHONE_SCREEN"
-msgstr "Phone screen detected"
+msgstr ""
 
 msgid "Add end"
 msgstr ""
