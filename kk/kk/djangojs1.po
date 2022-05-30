@@ -1,192 +1,192 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: git-hub\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-22 14:14+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2022-05-30 04:40\n"
+"Last-Translator: \n"
+"Language-Team: Kazakh\n"
+"Language: kk_KZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: git-hub\n"
+"X-Crowdin-Project-ID: 448652\n"
+"X-Crowdin-Language: kk\n"
+"X-Crowdin-File: /[nataliacrowdin.rus] l10n_main/kk/kk/djangojs1.po\n"
+"X-Crowdin-File-ID: 5526\n"
 
 msgid "'"
-msgstr "'"
+msgstr ""
 
 msgid "Moscow time"
-msgstr "Moscow time"
+msgstr ""
 
 msgid "RRule error: Unable to fully convert this rrule to text"
-msgstr "RRule error: Unable to fully convert this rrule to text"
+msgstr ""
 
 msgid "every"
-msgstr "every"
+msgstr ""
 
 msgid "until"
-msgstr "until"
+msgstr ""
 
 msgid "for"
-msgstr "for"
+msgstr ""
 
 msgid "times"
-msgstr "times"
+msgstr ""
 
 msgid "time"
-msgstr "time"
+msgstr ""
 
 msgid "(~ approximate)"
-msgstr "(~ approximate)"
+msgstr ""
 
 msgid "hours"
-msgstr "hours"
+msgstr ""
 
 msgid "hour"
-msgstr "hour"
+msgstr ""
 
 msgid "weekdays"
-msgstr "weekdays"
+msgstr ""
 
 msgid "weekday"
-msgstr "weekday"
+msgstr ""
 
 msgid "days"
-msgstr "days"
+msgstr ""
 
 msgid "day"
-msgstr "day"
+msgstr ""
 
 msgid "in"
-msgstr "in"
+msgstr ""
 
 msgid "weeks"
-msgstr "weeks"
+msgstr ""
 
 msgid "week"
-msgstr "week"
+msgstr ""
 
 msgid "on"
-msgstr "on"
+msgstr ""
 
 msgid "months"
-msgstr "months"
+msgstr ""
 
 msgid "month"
-msgstr "month"
+msgstr ""
 
 msgid "years"
-msgstr "years"
+msgstr ""
 
 msgid "year"
-msgstr "year"
+msgstr ""
 
 msgid "on the"
-msgstr "on the"
+msgstr ""
 
 msgid "and"
-msgstr "and"
+msgstr ""
 
 msgid "or"
-msgstr "or"
+msgstr ""
 
 msgid "the"
-msgstr "the"
+msgstr ""
 
 msgid "at"
-msgstr "at"
+msgstr ""
 
 msgid "last"
-msgstr "last"
+msgstr ""
 
 msgid "st"
-msgstr "st"
+msgstr ""
 
 msgid "nd"
-msgstr "nd"
+msgstr ""
 
 msgid "rd"
-msgstr "rd"
+msgstr ""
 
 msgid "th"
-msgstr "th"
+msgstr ""
 
 msgid "Change all slots in the series"
-msgstr "Change all slots in the series"
+msgstr ""
 
 msgid "Change this slot"
-msgstr "Change this slot"
+msgstr ""
 
 msgid "Delete"
-msgstr "Delete"
+msgstr ""
 
 msgid "Settings"
-msgstr "Settings"
+msgstr ""
 
 msgid "Proctors"
-msgstr "Proctors"
+msgstr ""
 
 msgid "Students"
-msgstr "Students"
+msgstr ""
 
 msgid "Save"
-msgstr "Save"
+msgstr ""
 
 msgid "Date or duration"
-msgstr "Date or duration"
+msgstr ""
 
 msgid "Repeat"
-msgstr "Repeat"
+msgstr ""
 
 msgid "Every day"
-msgstr "Every day"
+msgstr ""
 
 msgid "Every week"
-msgstr "Every week"
+msgstr ""
 
 msgid "Every month"
-msgstr "Every month"
+msgstr ""
 
 msgid "MO"
-msgstr "MO"
+msgstr ""
 
 msgid "TU"
-msgstr "TU"
+msgstr ""
 
 msgid "WE"
-msgstr "WE"
+msgstr ""
 
 msgid "TH"
-msgstr "TH"
+msgstr ""
 
 msgid "FR"
-msgstr "FR"
+msgstr ""
 
 msgid "SA"
-msgstr "SA"
+msgstr ""
 
 msgid "SU"
-msgstr "SU"
+msgstr ""
 
 msgid "Users"
-msgstr "Users"
+msgstr ""
 
 msgid "User"
-msgstr "User"
+msgstr ""
 
 msgid "Available entries:"
-msgstr "Available entries:"
+msgstr ""
 
 msgid "Available duties:"
-msgstr "Available duties:"
+msgstr ""
 
 msgid "Cancel this slot only or all the set?"
-msgstr "Cancel this slot only or all the set?"
+msgstr ""
 
 msgid "Remove this"
 msgstr "Cancel this"
@@ -195,25 +195,25 @@ msgid "Remove all"
 msgstr "Cancel all"
 
 msgid "Add"
-msgstr "Add"
+msgstr ""
 
 msgid "minutes"
-msgstr "minutes"
+msgstr ""
 
 msgid "Create slot"
 msgstr "Create a slot"
 
 msgid "All intervals"
-msgstr "All intervals"
+msgstr ""
 
 msgid "All companies"
-msgstr "All companies"
+msgstr ""
 
 msgid "Not locked"
-msgstr "Not locked"
+msgstr ""
 
 msgid "Type proctor email"
-msgstr "Type proctor email"
+msgstr ""
 
 msgid "Are you sure you want to enroll in the selected slot?"
 msgstr "Are you sure you want to sign up for the selected slot?"
@@ -231,16 +231,10 @@ msgid "You do not have the next exam."
 msgstr "There are no upcoming exams."
 
 msgid "Your exams:"
-msgstr "Your exams:"
-
-msgid ""
-"If you can't find your exam in list, or there are no available slots for "
-"entry, contact the education institution for information about the "
-"specification of the terms and conditions of the examination event."
 msgstr ""
-"If you cannot find your exam in list, or there are no available slots for "
-"entry, contact the educational institution to specify "
-"the terms and conditions of the examination event."
+
+msgid "If you can't find your exam in list, or there are no available slots for entry, contact the education institution for information about the specification of the terms and conditions of the examination event."
+msgstr "If you cannot find your exam in list, or there are no available slots for entry, contact the educational institution to specify the terms and conditions of the examination event."
 
 msgid "Miss your exam?"
 msgstr "Not seeing your exam?"
@@ -249,13 +243,13 @@ msgid "Choosing exam"
 msgstr "Choosing an exam"
 
 msgid "Attention, the exam record is available no later than %(reserveHours)s hours before the exam!"
-msgstr "Attention, the exam record is available no later than %(reserveHours)s hours before the exam!"
+msgstr ""
 
 msgid "All organizations"
-msgstr "All organizations"
+msgstr ""
 
 msgid "Show the document"
-msgstr "Show the document"
+msgstr ""
 
 msgid "Start exam"
 msgstr "Start the exam"
@@ -270,40 +264,40 @@ msgid "Please take photo again"
 msgstr "Please take a photo again"
 
 msgid "ID card"
-msgstr "ID card"
+msgstr ""
 
 msgid "Retake photo"
-msgstr "Retake photo"
+msgstr ""
 
 msgid "Confirm"
-msgstr "Confirm"
+msgstr ""
 
 msgid "Quick warning"
-msgstr "Quick warning"
+msgstr ""
 
 msgid "Fullscreen"
-msgstr "Fullscreen"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Cancel"
+msgstr ""
 
 msgid "Delete this slot?"
-msgstr "Delete this slot?"
+msgstr ""
 
 msgid "Cancel recording"
-msgstr "Cancel recording"
+msgstr ""
 
 msgid "Click to discard"
-msgstr "Click to discard"
+msgstr ""
 
 msgid "Click to schedule"
-msgstr "Click to schedule"
+msgstr ""
 
 msgid "Unavailable"
 msgstr "No free slots"
 
 msgid "Hold to activate the sound of the video"
-msgstr "Hold to activate the sound of the video"
+msgstr ""
 
 msgid "Click for restore videostream"
 msgstr "Click to restore the video stream"
@@ -315,7 +309,7 @@ msgid "Send warning"
 msgstr "Send a warning"
 
 msgid "Quick messages"
-msgstr "Quick messages"
+msgstr ""
 
 msgid "Add warning"
 msgstr "Add a warning"
@@ -324,25 +318,25 @@ msgid "Are you realy want to delete a message?"
 msgstr "Are you sure you want to delete the message?"
 
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 msgid "Pay"
-msgstr "Pay"
+msgstr ""
 
 msgid "Entry is available to pay for 15 minutes"
-msgstr "Entry is available to pay for 15 minutes"
+msgstr ""
 
 msgid "Are you sure you want to sign up for the exam on %(dateTime)s?"
-msgstr "Are you sure you want to sign up for the exam on %(dateTime)s?"
+msgstr ""
 
 msgid "The cost will be: %(amount)s&#8381;"
-msgstr "The cost will be: %(amount)s&#8381;"
+msgstr ""
 
 msgid "Exams"
-msgstr "Exams"
+msgstr ""
 
 msgid "Calendar"
-msgstr "Calendar"
+msgstr ""
 
 msgid "allow_wrong_gaze_direction"
 msgstr "Wrong gaze direction"
@@ -378,22 +372,22 @@ msgid "custom_rules"
 msgstr "Custom rules"
 
 msgid "Exam"
-msgstr "Exam"
+msgstr ""
 
 msgid "Company"
-msgstr "Company"
+msgstr ""
 
 msgid "Lock"
-msgstr "Lock"
+msgstr ""
 
 msgid "Lock this slot"
-msgstr "Lock this slot"
+msgstr ""
 
 msgid "Server error"
-msgstr "Server error"
+msgstr ""
 
 msgid "Comment is required"
-msgstr "Comment is required"
+msgstr ""
 
 msgid "Create"
 msgstr ""
@@ -402,28 +396,28 @@ msgid "Invalid email"
 msgstr ""
 
 msgid "Mass enroll"
-msgstr "Mass enroll"
+msgstr ""
 
 msgid "No limit"
-msgstr "No limit"
+msgstr ""
 
 msgid "Staff quota"
 msgstr "Limit for one slot:"
 
 msgid "Record list"
-msgstr "Record list"
+msgstr ""
 
 msgid "Duplicate"
-msgstr "Duplicate"
+msgstr ""
 
 msgid "Processed records"
-msgstr "Processed records"
+msgstr ""
 
 msgid "Do you really want to abort the exam?"
-msgstr "Do you really want to abort the exam?"
+msgstr ""
 
 msgid "You"
-msgstr "You"
+msgstr ""
 
 msgid "IDENTIFICATION: NO FACE"
 msgstr "No face"
@@ -510,7 +504,8 @@ msgid "WARNING_PHONE_SCREEN"
 msgstr "Phone screen detected"
 
 msgid "Add end"
-msgstr "Add end"
+msgstr ""
 
 msgid "Send"
-msgstr "Send"
+msgstr ""
+
