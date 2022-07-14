@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: git-hub\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-22 14:14+0000\n"
+"PO-Revision-Date: 2022-07-14 14:07\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: git-hub\n"
+"X-Crowdin-Project-ID: 448652\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /[nataliacrowdin.rus] l10n_main/kk/kk/djangojs1.po\n"
+"X-Crowdin-File-ID: 5526\n"
+
+msgid "'"
+msgstr ""
+
+msgid "Moscow time"
+msgstr ""
+
+msgid "RRule error: Unable to fully convert this rrule to text"
+msgstr ""
+
+msgid "every"
+msgstr ""
+
+msgid "until"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid "times"
+msgstr ""
+
+msgid "time"
+msgstr ""
+
+msgid "(~ approximate)"
+msgstr ""
+
+msgid "hours"
+msgstr ""
+
+msgid "hour"
+msgstr ""
+
+msgid "weekdays"
+msgstr ""
+
+msgid "weekday"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "day"
+msgstr ""
+
+msgid "in"
+msgstr ""
+
+msgid "weeks"
+msgstr ""
+
+msgid "week"
+msgstr ""
+
+msgid "on"
+msgstr ""
+
+msgid "months"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "years"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+msgid "on the"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "the"
+msgstr ""
+
+msgid "at"
+msgstr ""
+
+msgid "last"
+msgstr ""
+
+msgid "st"
+msgstr ""
+
+msgid "nd"
+msgstr ""
+
+msgid "rd"
+msgstr ""
+
+msgid "th"
+msgstr ""
+
+msgid "Change all slots in the series"
+msgstr ""
+
+msgid "Change this slot"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Proctors"
+msgstr ""
+
+msgid "Students"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Date or duration"
+msgstr ""
+
+msgid "Repeat"
+msgstr ""
+
+msgid "Every day"
+msgstr ""
+
+msgid "Every week"
+msgstr ""
+
+msgid "Every month"
+msgstr ""
+
+msgid "MO"
+msgstr ""
+
+msgid "TU"
+msgstr ""
+
+msgid "WE"
+msgstr ""
+
+msgid "TH"
+msgstr ""
+
+msgid "FR"
+msgstr ""
+
+msgid "SA"
+msgstr ""
+
+msgid "SU"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Available entries:"
+msgstr ""
+
+msgid "Available duties:"
+msgstr ""
+
+msgid "Cancel this slot only or all the set?"
+msgstr ""
+
+msgid "Remove this"
+msgstr ""
+
+msgid "Remove all"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "Create slot"
+msgstr ""
+
+msgid "All intervals"
+msgstr ""
+
+msgid "All companies"
+msgstr ""
+
+msgid "Not locked"
+msgstr ""
+
+msgid "Type proctor email"
+msgstr ""
+
+msgid "Are you sure you want to enroll in the selected slot?"
+msgstr ""
+
+msgid "Are you sure you want to cancel the recording on the selected slot?"
+msgstr ""
+
+msgid "Are you sure you want to cancel the recording on the selected slot?<br> The refound will be: %(amount)s&#8381;"
+msgstr ""
+
+msgid "Are you sure you want to cancel recording the selected exam?"
+msgstr ""
+
+msgid "You do not have the next exam."
+msgstr ""
+
+msgid "Your exams:"
+msgstr ""
+
+msgid "If you can't find your exam in list, or there are no available slots for entry, contact the education institution for information about the specification of the terms and conditions of the examination event."
+msgstr ""
+
+msgid "Miss your exam?"
+msgstr ""
+
+msgid "Choosing exam"
+msgstr ""
+
+msgid "Attention, the exam record is available no later than %(reserveHours)s hours before the exam!"
+msgstr ""
+
+msgid "All organizations"
+msgstr ""
+
+msgid "Show the document"
+msgstr ""
+
+msgid "Start exam"
+msgstr ""
+
+msgid "Finish exam"
+msgstr ""
+
+msgid "Abort exam"
+msgstr ""
+
+msgid "Please take photo again"
+msgstr ""
+
+msgid "ID card"
+msgstr ""
+
+msgid "Retake photo"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Quick warning"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Delete this slot?"
+msgstr ""
+
+msgid "Cancel recording"
+msgstr ""
+
+msgid "Click to discard"
+msgstr ""
+
+msgid "Click to schedule"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Hold to activate the sound of the video"
+msgstr ""
+
+msgid "Click for restore videostream"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Send warning"
+msgstr ""
+
+msgid "Quick messages"
+msgstr ""
+
+msgid "Add warning"
+msgstr ""
+
+msgid "Are you realy want to delete a message?"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Pay"
+msgstr ""
+
+msgid "Entry is available to pay for 15 minutes"
+msgstr ""
+
+msgid "Are you sure you want to sign up for the exam on %(dateTime)s?"
+msgstr ""
+
+msgid "The cost will be: %(amount)s&#8381;"
+msgstr ""
+
+msgid "Exams"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "allow_wrong_gaze_direction"
+msgstr ""
+
+msgid "allow_to_use_websites"
+msgstr ""
+
+msgid "allow_to_use_messengers"
+msgstr ""
+
+msgid "allow_to_use_paper"
+msgstr ""
+
+msgid "allow_to_use_excel"
+msgstr ""
+
+msgid "allow_voices"
+msgstr ""
+
+msgid "allow_to_use_books"
+msgstr ""
+
+msgid "allow_to_use_human_assistant"
+msgstr ""
+
+msgid "allow_absence_in_frame"
+msgstr ""
+
+msgid "allow_to_use_calculator"
+msgstr ""
+
+msgid "custom_rules"
+msgstr ""
+
+msgid "Exam"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Lock"
+msgstr ""
+
+msgid "Lock this slot"
+msgstr ""
+
+msgid "Server error"
+msgstr ""
+
+msgid "Comment is required"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Invalid email"
+msgstr ""
+
+msgid "Mass enroll"
+msgstr ""
+
+msgid "No limit"
+msgstr ""
+
+msgid "Staff quota"
+msgstr ""
+
+msgid "Record list"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Processed records"
+msgstr ""
+
+msgid "Do you really want to abort the exam?"
+msgstr ""
+
+msgid "You"
+msgstr ""
+
+msgid "IDENTIFICATION: NO FACE"
+msgstr ""
+
+msgid "IDENTIFICATION: COLLISION"
+msgstr ""
+
+msgid "IDENTIFICATION: OK"
+msgstr ""
+
+msgid "Webcam duration"
+msgstr ""
+
+msgid "Desktop duration"
+msgstr ""
+
+msgid "Average"
+msgstr ""
+
+msgid "serious violations"
+msgstr ""
+
+msgid "no violations"
+msgstr ""
+
+msgid "minor violations"
+msgstr ""
+
+msgid "no comment"
+msgstr ""
+
+msgid "No data"
+msgstr ""
+
+msgid "WARNING_EXTRA_USER_IN_FRAME"
+msgstr ""
+
+msgid "WARNING_SUBSTITUTION_USER"
+msgstr ""
+
+msgid "WARNING_NO_USER_IN_FRAME"
+msgstr ""
+
+msgid "WARNING_AVERT_EYES"
+msgstr ""
+
+msgid "WARNING_TIMEOUT"
+msgstr ""
+
+msgid "WARNING_CHANGE_ACTIVE_WINDOW_ON_COMPUTER"
+msgstr ""
+
+msgid "WARNING_TALK"
+msgstr ""
+
+msgid "WARNING_FORBIDDEN_SOFTWARE"
+msgstr ""
+
+msgid "WARNING_FORBIDDEN_DEVICE"
+msgstr ""
+
+msgid "WARNING_VOICE_DETECTED"
+msgstr ""
+
+msgid "WARNING_EXTRA_DISPLAY"
+msgstr ""
+
+msgid "WARNING_BOOKS"
+msgstr ""
+
+msgid "WARNING_CHEATER"
+msgstr ""
+
+msgid "WARNING_SILENCE"
+msgstr ""
+
+msgid "WARNING_NONVERBAL"
+msgstr ""
+
+msgid "WARNING_PHONE"
+msgstr ""
+
+msgid "WARNING_PHONE_SCREEN"
+msgstr ""
+
+msgid "Add end"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
